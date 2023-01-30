@@ -5,7 +5,7 @@ It's just a basic app to convert YT to mp3.
 
 ```node index.js [yt_video_id] | [yt_video_id] [yt_video_id] [yt_video_id]```
 
-The result are the MP3 files downloaded in the music folder
+The result is the MP3 files downloaded in the music folder
 
 e.g.
 
